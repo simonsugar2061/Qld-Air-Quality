@@ -1,0 +1,96 @@
+Region,Station,Measurement Item,Measurement Rating,Measurement Rating Name,Measurement Index
+South East Queensland,Mountain Creek,Nitrogen Dioxide,1,Very Good,1
+South East Queensland,Mountain Creek,Ozone,1,Very Good,28
+South East Queensland,Mountain Creek,Particle PM10,1,Very Good,7
+South East Queensland,Mountain Creek,Visibility,1,Very Good,1
+South East Queensland,Deception Bay,Nitrogen Dioxide,1,Very Good,1
+South East Queensland,Deception Bay,Ozone,1,Very Good,25
+South East Queensland,Wynnum,Nitrogen Dioxide,1,Very Good,3
+South East Queensland,Wynnum,Sulfur Dioxide,1,Very Good,1
+South East Queensland,Wynnum,Particle PM10,1,Very Good,18
+South East Queensland,Wynnum,Particle PM2.5,1,Very Good,5
+South East Queensland,Wynnum West,Sulfur Dioxide,1,Very Good,1
+South East Queensland,Wynnum West,Particle PM10,1,Very Good,4
+South East Queensland,Wynnum West,Particle PM2.5,1,Very Good,0
+South East Queensland,Lytton,Sulfur Dioxide,1,Very Good,15
+South East Queensland,Lytton,Particle PM10,1,Very Good,22
+South East Queensland,Lytton,Particle PM2.5,1,Very Good,24
+South East Queensland,Cannon Hill,Particles TSP,1,Very Good,9
+South East Queensland,Cannon Hill,Particle PM10,1,Very Good,13
+South East Queensland,Cannon Hill,Particle PM2.5,1,Very Good,24
+South East Queensland,Brisbane CBD,Particle PM10,1,Very Good,8
+South East Queensland,Brisbane CBD,Visibility,1,Very Good,3
+South East Queensland,Woolloongabba,Carbon Monoxide,5,Very Poor,-12344
+South East Queensland,Woolloongabba,Nitrogen Dioxide,5,Very Poor,-925833
+South East Queensland,Woolloongabba,Particle PM10,5,Very Poor,-2222
+South East Queensland,Woolloongabba,Particle PM2.5,5,Very Poor,-4444
+South East Queensland,South Brisbane,Carbon Monoxide,1,Very Good,1
+South East Queensland,South Brisbane,Nitrogen Dioxide,1,Very Good,11
+South East Queensland,South Brisbane,Particle PM10,1,Very Good,9
+South East Queensland,South Brisbane,Particle PM2.5,1,Very Good,9
+South East Queensland,Rocklea,Nitrogen Dioxide,0,Not Available,-8332500
+South East Queensland,Rocklea,Ozone,0,Not Available,-9999000
+South East Queensland,Rocklea,Particle PM10,1,Very Good,3
+South East Queensland,Rocklea,Particle PM2.5,1,Very Good,0
+South East Queensland,Rocklea,Visibility,0,Not Available,-4255
+South East Queensland,Springwood,Nitrogen Dioxide,1,Very Good,4
+South East Queensland,Springwood,Ozone,1,Very Good,18
+South East Queensland,Springwood,Sulfur Dioxide,1,Very Good,1
+South East Queensland,Springwood,Particle PM10,1,Very Good,7
+South East Queensland,Springwood,Particle PM2.5,1,Very Good,8
+South East Queensland,North Maclean,Nitrogen Dioxide,1,Very Good,1
+South East Queensland,North Maclean,Ozone,1,Very Good,26
+South East Queensland,Flinders View,Nitrogen Dioxide,1,Very Good,2
+South East Queensland,Flinders View,Ozone,1,Very Good,24
+South East Queensland,Flinders View,Sulfur Dioxide,1,Very Good,0
+South East Queensland,Flinders View,Particle PM10,1,Very Good,10
+South East Queensland,Flinders View,Visibility,1,Very Good,1
+South East Queensland,Mutdapilly,Nitrogen Dioxide,1,Very Good,0
+South East Queensland,Mutdapilly,Ozone,1,Very Good,26
+South East Queensland,Jondaryan,Particles TSP,1,Very Good,5
+South East Queensland,Jondaryan,Particle PM10,1,Very Good,7
+South East Queensland,Jondaryan,Particle PM2.5,1,Very Good,8
+Gladstone,Targinie,Nitrogen Dioxide,1,Very Good,0
+Gladstone,Targinie,Sulfur Dioxide,1,Very Good,0
+Gladstone,Targinie,Particle PM10,1,Very Good,8
+Gladstone,Targinie,Particle PM2.5,1,Very Good,10
+Gladstone,Targinie,Visibility,1,Very Good,0
+Gladstone,Fisherman's Landing,Nitrogen Dioxide,1,Very Good,0
+Gladstone,Fisherman's Landing,Sulfur Dioxide,1,Very Good,0
+Gladstone,Fisherman's Landing,Particle PM10,1,Very Good,6
+Gladstone,Fisherman's Landing,Particle PM2.5,1,Very Good,1
+Gladstone,Fisherman's Landing,Visibility,1,Very Good,1
+Gladstone,Boat Creek,Nitrogen Dioxide,1,Very Good,1
+Gladstone,Boat Creek,Sulfur Dioxide,1,Very Good,0
+Gladstone,Boat Creek,Particle PM10,1,Very Good,10
+Gladstone,Boat Creek,Particle PM2.5,1,Very Good,6
+Gladstone,Boat Creek,Visibility,1,Very Good,11
+Gladstone,Clinton,Nitrogen Dioxide,1,Very Good,2
+Gladstone,Clinton,Sulfur Dioxide,1,Very Good,0
+Gladstone,Clinton,Particle PM10,1,Very Good,3
+Gladstone,Clinton,Particle PM2.5,1,Very Good,1
+Gladstone,Clinton,Visibility,1,Very Good,1
+Gladstone,Memorial Park,Nitrogen Dioxide,1,Very Good,2
+Gladstone,Memorial Park,Ozone,1,Very Good,21
+Gladstone,Memorial Park,Sulfur Dioxide,1,Very Good,1
+Gladstone,Auckland Point,Particle PM10,1,Very Good,7
+Gladstone,South Gladstone,Nitrogen Dioxide,1,Very Good,0
+Gladstone,South Gladstone,Sulfur Dioxide,1,Very Good,0
+Gladstone,South Gladstone,Particle PM10,1,Very Good,8
+Gladstone,South Gladstone,Particle PM2.5,1,Very Good,9
+Gladstone,South Gladstone,Visibility,1,Very Good,0
+Gladstone,Boyne Island,Carbon Monoxide,1,Very Good,13
+Gladstone,Boyne Island,Nitrogen Dioxide,1,Very Good,0
+Gladstone,Boyne Island,Sulfur Dioxide,1,Very Good,0
+Gladstone,Boyne Island,Particle PM10,1,Very Good,0
+Gladstone,Boyne Island,Particle PM2.5,1,Very Good,0
+Gladstone,Boyne Island,Visibility,1,Very Good,0
+Mackay,West Mackay,Particle PM10,1,Very Good,22
+Mackay,West Mackay,Visibility,1,Very Good,0
+Mackay,Moranbah,Particle PM10,1,Very Good,15
+Townsville,Coastguard,Particles TSP,1,Very Good,13
+Townsville,Coastguard,Particle PM10,1,Very Good,18
+Townsville,Stuart,Sulfur Dioxide,1,Very Good,1
+Mt Isa,Menzies,Sulfur Dioxide,1,Very Good,0
+Mt Isa,The Gap,Sulfur Dioxide,1,Very Good,0
+Mt Isa,The Gap,Particle PM10,1,Very Good,7

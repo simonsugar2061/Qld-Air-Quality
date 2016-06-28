@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<airdata country="Australia" state="Queensland" provider="Department of Environment and Heritage Protection">
+<category name="Air Quality" measurementdate="2016-06-28" measurementhour="13">
+<region name="South East Queensland" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/">   <station name="Mountain Creek" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#mountaincreek">
+         <measurement name="Nitrogen Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Ozone" index="28" rating="1" rating_name="Very Good">0.028</measurement>
+         <measurement name="Particle PM10" index="7" rating="1" rating_name="Very Good">3.7</measurement>
+         <measurement name="Visibility" index="1" rating="1" rating_name="Very Good">2</measurement>
+</station>
+   <station name="Deception Bay" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#deception">
+         <measurement name="Nitrogen Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Ozone" index="25" rating="1" rating_name="Very Good">0.025</measurement>
+</station>
+   <station name="Wynnum" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#wynnum">
+         <measurement name="Nitrogen Dioxide" index="3" rating="1" rating_name="Very Good">0.004</measurement>
+         <measurement name="Sulfur Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Particle PM10" index="18" rating="1" rating_name="Very Good">8.8</measurement>
+         <measurement name="Particle PM2.5" index="5" rating="1" rating_name="Very Good">1.2</measurement>
+</station>
+   <station name="Wynnum West" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#wynnum">
+         <measurement name="Sulfur Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Particle PM10" index="4" rating="1" rating_name="Very Good">1.8</measurement>
+         <measurement name="Particle PM2.5" index="0" rating="1" rating_name="Very Good">0</measurement>
+</station>
+   <station name="Lytton" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#wynnum">
+         <measurement name="Sulfur Dioxide" index="15" rating="1" rating_name="Very Good">0.03</measurement>
+         <measurement name="Particle PM10" index="22" rating="1" rating_name="Very Good">11</measurement>
+         <measurement name="Particle PM2.5" index="24" rating="1" rating_name="Very Good">5.9</measurement>
+</station>
+   <station name="Cannon Hill" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#cannonhill">
+         <measurement name="Particles TSP" index="9" rating="1" rating_name="Very Good">6.9</measurement>
+         <measurement name="Particle PM10" index="13" rating="1" rating_name="Very Good">6.7</measurement>
+         <measurement name="Particle PM2.5" index="24" rating="1" rating_name="Very Good">5.9</measurement>
+</station>
+   <station name="Brisbane CBD" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#cbd">
+         <measurement name="Particle PM10" index="8" rating="1" rating_name="Very Good">4</measurement>
+         <measurement name="Visibility" index="3" rating="1" rating_name="Very Good">8</measurement>
+</station>
+   <station name="Woolloongabba" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#gabba">
+         <measurement name="Carbon Monoxide" index="-12344" rating="5" rating_name="Very Poor">-1111</measurement>
+         <measurement name="Nitrogen Dioxide" index="-925833" rating="5" rating_name="Very Poor">-1111</measurement>
+         <measurement name="Particle PM10" index="-2222" rating="5" rating_name="Very Poor">-1111</measurement>
+         <measurement name="Particle PM2.5" index="-4444" rating="5" rating_name="Very Poor">-1111</measurement>
+</station>
+   <station name="South Brisbane" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#southbris">
+         <measurement name="Carbon Monoxide" index="1" rating="1" rating_name="Very Good">0.1</measurement>
+         <measurement name="Nitrogen Dioxide" index="11" rating="1" rating_name="Very Good">0.013</measurement>
+         <measurement name="Particle PM10" index="9" rating="1" rating_name="Very Good">4.6</measurement>
+         <measurement name="Particle PM2.5" index="9" rating="1" rating_name="Very Good">2.2</measurement>
+</station>
+   <station name="Rocklea" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#rocklea">
+         <measurement name="Nitrogen Dioxide" index="-8332500" rating="0" rating_name="Not Available">-9999</measurement>
+         <measurement name="Ozone" index="-9999000" rating="0" rating_name="Not Available">-9999</measurement>
+         <measurement name="Particle PM10" index="3" rating="1" rating_name="Very Good">1.4</measurement>
+         <measurement name="Particle PM2.5" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Visibility" index="-4255" rating="0" rating_name="Not Available">-9999</measurement>
+</station>
+   <station name="Springwood" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#springwood">
+         <measurement name="Nitrogen Dioxide" index="4" rating="1" rating_name="Very Good">0.005</measurement>
+         <measurement name="Ozone" index="18" rating="1" rating_name="Very Good">0.018</measurement>
+         <measurement name="Sulfur Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Particle PM10" index="7" rating="1" rating_name="Very Good">3.3</measurement>
+         <measurement name="Particle PM2.5" index="8" rating="1" rating_name="Very Good">1.9</measurement>
+</station>
+   <station name="North Maclean" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#northmaclean">
+         <measurement name="Nitrogen Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Ozone" index="26" rating="1" rating_name="Very Good">0.026</measurement>
+</station>
+   <station name="Flinders View" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#flinders">
+         <measurement name="Nitrogen Dioxide" index="2" rating="1" rating_name="Very Good">0.002</measurement>
+         <measurement name="Ozone" index="24" rating="1" rating_name="Very Good">0.024</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="10" rating="1" rating_name="Very Good">4.9</measurement>
+         <measurement name="Visibility" index="1" rating="1" rating_name="Very Good">2</measurement>
+</station>
+   <station name="Mutdapilly" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#mutdapilly">
+         <measurement name="Nitrogen Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Ozone" index="26" rating="1" rating_name="Very Good">0.026</measurement>
+</station>
+   <station name="Jondaryan" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/seq/#jondaryan">
+         <measurement name="Particles TSP" index="5" rating="1" rating_name="Very Good">4.3</measurement>
+         <measurement name="Particle PM10" index="7" rating="1" rating_name="Very Good">3.7</measurement>
+         <measurement name="Particle PM2.5" index="8" rating="1" rating_name="Very Good">2.1</measurement>
+</station>
+</region>
+<region name="Gladstone" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/">   <station name="Targinie" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#targinie">
+         <measurement name="Nitrogen Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="8" rating="1" rating_name="Very Good">3.8</measurement>
+         <measurement name="Particle PM2.5" index="10" rating="1" rating_name="Very Good">2.6</measurement>
+         <measurement name="Visibility" index="0" rating="1" rating_name="Very Good">1</measurement>
+</station>
+   <station name="Fisherman's Landing" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#fisherman">
+         <measurement name="Nitrogen Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="6" rating="1" rating_name="Very Good">3</measurement>
+         <measurement name="Particle PM2.5" index="1" rating="1" rating_name="Very Good">0.3</measurement>
+         <measurement name="Visibility" index="1" rating="1" rating_name="Very Good">2</measurement>
+</station>
+   <station name="Boat Creek" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#boat_creek">
+         <measurement name="Nitrogen Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="10" rating="1" rating_name="Very Good">5.2</measurement>
+         <measurement name="Particle PM2.5" index="6" rating="1" rating_name="Very Good">1.6</measurement>
+         <measurement name="Visibility" index="11" rating="1" rating_name="Very Good">25</measurement>
+</station>
+   <station name="Clinton" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#clinton">
+         <measurement name="Nitrogen Dioxide" index="2" rating="1" rating_name="Very Good">0.002</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="3" rating="1" rating_name="Very Good">1.6</measurement>
+         <measurement name="Particle PM2.5" index="1" rating="1" rating_name="Very Good">0.2</measurement>
+         <measurement name="Visibility" index="1" rating="1" rating_name="Very Good">2</measurement>
+</station>
+   <station name="Memorial Park" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#memorial">
+         <measurement name="Nitrogen Dioxide" index="2" rating="1" rating_name="Very Good">0.002</measurement>
+         <measurement name="Ozone" index="21" rating="1" rating_name="Very Good">0.021</measurement>
+         <measurement name="Sulfur Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+</station>
+   <station name="Auckland Point" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#auckland">
+         <measurement name="Particle PM10" index="7" rating="1" rating_name="Very Good">3.6</measurement>
+</station>
+   <station name="South Gladstone" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#south_gladstone">
+         <measurement name="Nitrogen Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="8" rating="1" rating_name="Very Good">3.9</measurement>
+         <measurement name="Particle PM2.5" index="9" rating="1" rating_name="Very Good">2.3</measurement>
+         <measurement name="Visibility" index="0" rating="1" rating_name="Very Good">0</measurement>
+</station>
+   <station name="Boyne Island" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/gladstone/#boyne">
+         <measurement name="Carbon Monoxide" index="13" rating="1" rating_name="Very Good">1.2</measurement>
+         <measurement name="Nitrogen Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM2.5" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Visibility" index="0" rating="1" rating_name="Very Good">0</measurement>
+</station>
+</region>
+<region name="Mackay" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mackay/">   <station name="West Mackay" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mackay/">
+         <measurement name="Particle PM10" index="22" rating="1" rating_name="Very Good">10.8</measurement>
+         <measurement name="Visibility" index="0" rating="1" rating_name="Very Good">1</measurement>
+</station>
+   <station name="Moranbah" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mackay/">
+         <measurement name="Particle PM10" index="15" rating="1" rating_name="Very Good">7.3</measurement>
+</station>
+</region>
+<region name="Townsville" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/townsville/">   <station name="Coastguard" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/townsville/index.html#coast">
+         <measurement name="Particles TSP" index="13" rating="1" rating_name="Very Good">10.3</measurement>
+         <measurement name="Particle PM10" index="18" rating="1" rating_name="Very Good">9.2</measurement>
+</station>
+   <station name="Stuart" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/townsville/index.html#stuart">
+         <measurement name="Sulfur Dioxide" index="1" rating="1" rating_name="Very Good">0.001</measurement>
+</station>
+</region>
+<region name="Mt Isa" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mtisa/">   <station name="Menzies" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mtisa/index.html#menzies">
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+</station>
+   <station name="The Gap" information="http://www.ehp.qld.gov.au/air/data/http://www.qld.gov.au/environment/pollution/monitoring/air-monitoring/mtisa/index.html#gap">
+         <measurement name="Sulfur Dioxide" index="0" rating="1" rating_name="Very Good">0</measurement>
+         <measurement name="Particle PM10" index="7" rating="1" rating_name="Very Good">3.3</measurement>
+</station>
+</region>
+</category>
+</airdata>
